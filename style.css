@@ -24,6 +24,16 @@ body {
     background: var(--bg);
 }
 
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: var(--color-primary-dark);
+}
+
 p{
     font-size: 18px;
 }
