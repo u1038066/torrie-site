@@ -76,6 +76,7 @@ header .container {
     font-size: 1.25rem;
     color: var(--color-background);
     text-decoration: none;
+    text-align: center;
 }
 
 .main-nav {
